@@ -2,7 +2,7 @@
 ### I'm Rakibul Islam
 ![I'm Rakibul Islam](https://scontent.fdac37-1.fna.fbcdn.net/v/t39.30808-6/329752269_587821919461678_2144459339455890701_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeGkXOAhHaaMeO2EweS-eYYzZ1H3WAjo_FdnUfdYCOj8V2eKb8ihNJRxYsszSvwCWHUE-D-RZzai2WdB0sAR3miK&_nc_ohc=Fx1tudBM3_gAX9S7EdH&_nc_ht=scontent.fdac37-1.fna&oh=00_AfBbvQn18TAwSiUMUROKfIWDtrrjZeT8p7Zzw9_aNhxsrA&oe=6572547A)
 
-                                                Full Stack Web Developer (PHP Laravel)
+                                                    Full Stack Web Developer (PHP Laravel)
 
 Skills: Laravel / PHP / Bootstrap / OOP /  jQuery  / Ajax / REACT / JS / Axios / HTML / CSS / Payment Gateway Integration (SSL, Stripe, aamarPay) / Rest API  / Problem Solving 
 
