@@ -1,31 +1,42 @@
-## Hi there 👋, Assalamu Alaikum
-### I'm Rakibul Islam
+## 👋 Assalamu Alaikum! I'm Rakibul Islam
 
-![I'm Rakibul Islam](https://scontent.fdac37-1.fna.fbcdn.net/v/t39.30808-6/329752269_587821919461678_2144459339455890701_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeGkXOAhHaaMeO2EweS-eYYzZ1H3WAjo_FdnUfdYCOj8V2eKb8ihNJRxYsszSvwCWHUE-D-RZzai2WdB0sAR3miK&_nc_ohc=Fx1tudBM3_gAX9S7EdH&_nc_ht=scontent.fdac37-1.fna&oh=00_AfBbvQn18TAwSiUMUROKfIWDtrrjZeT8p7Zzw9_aNhxsrA&oe=6572547A)
+### 🚀 Full Stack Web Developer | PHP | Laravel | Vue.js | Livewire 
 
-### 🚀 Full Stack Web Developer (PHP Laravel)
+I am a passionate **Full Stack Web Developer** with expertise in Laravel, Vue.js, and modern web technologies. I love solving complex problems, optimizing performance, and creating user-friendly applications.
 
-#### 🛠 Skills & Expertise:
-- **Backend:** Laravel, PHP, OOP, REST API, Payment Gateway Integration (SSL, Stripe, aamarPay)
-- **Frontend:** Vue.js, jQuery, Alpine.js, Bootstrap, Tailwind CSS, HTML, CSS
-- **Full-Stack Tools:** Livewire, Ajax, Axios
-- **Mobile App Development:** Flutter
-- **Problem Solving & Debugging**
+---
 
-### 📖 What I'm Currently Learning:
-- Advanced Laravel Concepts & Performance Optimization
-- Livewire & Alpine.js for dynamic frontend development
-- Flutter for mobile app development
+### 🛠 Tech Stack & Expertise
 
-### 🤝 Let's Collaborate
-- I'm open to contributing on **GitHub** projects
-- Feel free to reach out for **Web Development** related discussions
+**🖥️ Backend:**  
+✅ Laravel | PHP | OOP | REST API | Authentication (JWT, Sanctum)  
+✅ Payment Gateway Integration (SSL, Stripe, aamarPay)  
+✅ MySQL | PostgreSQL | Firebase
 
-### 📢 Connect With Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rakib2264)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakib-khan-771916288/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hmrakib.khan.716)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC3omwxfWuDC_ykGfJbHIqvg)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rakib.miapur.com/)  
+**🎨 Frontend:**  
+✅ Vue.js | Alpine.js | Livewire | Tailwind CSS | Bootstrap  
+✅ HTML | CSS | JavaScript | jQuery | Ajax | Axios |Alpine Js
+
+### 📖 Currently Learning
+- Advanced Laravel Performance Optimization 🚀
+- Vue.js Composition API & Pinia 📌
+- Livewire & Alpine.js for Dynamic UI ⚡
+- Flutter for Cross-Platform Mobile Apps 📱
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+I am open to collaborating on **GitHub** projects and exciting new ideas. Feel free to connect with me!
+
+<p align="center">
+  <a href="https://github.com/Rakib2264"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/rakib-khan-771916288/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/hmrakib.khan.716"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.youtube.com/channel/UC3omwxfWuDC_ykGfJbHIqvg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://rakib.miapur.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
 
 🚀 **Happy Coding!** 🎯
