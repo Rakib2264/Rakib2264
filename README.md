@@ -34,7 +34,7 @@ I am open to collaborating on **GitHub** projects and exciting new ideas. Feel f
   <a href="https://www.linkedin.com/in/rakib-khan-771916288/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/hmrakib.khan.716"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.youtube.com/channel/UC3omwxfWuDC_ykGfJbHIqvg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://rakib.miapur.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://22rakibul.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
